@@ -1,5 +1,8 @@
-README for Java Code
+
 Shopping Cart System
+
+
+
 This Java code represents a simple shopping cart system with features such as order placement, payment processing, and decoration. Below is an overview of the key components and functionality of the system.
 
 Cart Class
